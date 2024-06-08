@@ -56,6 +56,8 @@ export default function createMapOptions(MapInfoType: MapInfoType): Promise<ECBa
             {
               type: 'map',
               map: mapName,
+              roam: true,
+              scaleLimit: { min: 0.7, max: 7 },
               label: {
                 show: false
               },
