@@ -7,7 +7,7 @@
 ### 项目简介
 
 - 本项目提供了一个echarts下钻到市级区域的示例（精度到区县一级）
-- 同时支持通过命令直接生成`中国边界线GeoGson文件`,`中国地图GeoJson文件（精度包含省、市、区县）`以及`按省份（名称、code）划分的省级GeoJson文件`、`市级GeoJson文件`，源文件来源于[`AntV L7 GISDATA`](https://l7.antv.antgroup.com/custom/tools/map)页面使用的`pdf`文件
+- 同时支持通过命令直接生成`中国边界线GeoGson文件`,`中国地图GeoJson文件（精度包含省、市、区县）`以及`按省份（名称、code）划分的省级GeoJson文件`、`市级GeoJson文件`，源文件来源于[`AntV L7 GISDATA`](https://l7.antv.antgroup.com/custom/tools/map)页面使用的`pbf`文件
 - 行政区划代码依赖[`province-city-china`](https://github.com/uiwjs/province-city-china)
 
 ### 项目缘
