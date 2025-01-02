@@ -46,7 +46,7 @@ pnpm make:geojson [mode]
 ```javascript
 echarts-drill-down
                  |-public
-                 |   |-pbf                           # tinymce 编辑器静态资源
+                 |   |-pbf                           # pbf文件
                  |   |-boundary                      # 存储antv页面使用的中国边界GeoJson文件
                  |   |-geojson
                  |   |   |-china.geojson             # 中国边界线geojson
